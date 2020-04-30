@@ -1,0 +1,74 @@
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    font-family: helvetica;
+}
+
+.just__welcome{
+    font-size: 60px;
+    
+    position: absolute;
+    left: 2cm;
+}
+.white__name{
+    font-size: 20px;
+    position: absolute;
+    top: 5.5cm;
+    left: 11cm;
+    color: azure;
+}
+.white__last-name{
+    font-size: 20px;
+    position: absolute;
+    top: 9cm;
+    left: 10cm;
+    color: azure;
+}
+.first__name{
+    font-size: 60px;
+    position: absolute;
+    top: 4cm;
+    left: 13cm;
+}
+.last__name{
+    font-size: 60px;
+    position: absolute;
+    bottom: 5cm;
+    left: 13cm;
+}
+.white__soft-skills{
+    font-size: 20px;
+    position: absolute;
+    bottom: 2.5cm;
+    left: 14cm;
+    color: azure;
+}
+.soft__skills{
+    list-style: none;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0cm;
+    left:16cm;
+}
+.card__social{
+    margin: 0;
+    padding: 0;
+    border: 7px solid black;
+    border-radius: 70px;
+    background-color: background: rgb(0,5,255);
+    background: radial-gradient(circle, rgba(0,5,255,1) 0%, rgba(204,207,210,1) 100%);;
+    position: absolute;
+    top: 3cm;
+    right: 2cm;
+    width: 2cm;
+    height: 12cm;
+}
+.card--items, img{
+list-style:none;
+display: inline-block;
+width: 70px;
+padding: 2px;
+margin-top: 35px;
+
+   
+}
